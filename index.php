@@ -1,3 +1,3 @@
 <?php
-echo "edited again from development branch";
+echo "edited again from staging branch";
 ?>
